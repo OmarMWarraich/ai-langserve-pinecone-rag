@@ -1,2 +1,4 @@
 __pycache__
 lang
+.env
+python=3.9.0
